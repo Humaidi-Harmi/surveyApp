@@ -1,0 +1,89 @@
+.Survey{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.SurveyBox{
+    margin-top: 8rem;
+    width: 700px;
+    height: 600px;
+    background-color: skyblue;
+    padding: 20px;
+}
+
+.SurveyHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.Questions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.Answers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.divider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.inputs{
+    padding: 30px;
+}
+
+.question1{
+    width: 100%;
+    height: 30px;
+}
+
+.question2{
+    width: 100%;
+    height: 30px;
+}
+
+.question3{
+    width: 100%;
+    height: 30px;
+}
+
+.answer1{
+    width: 100%;
+    height: 30px;
+}
+
+.answer2{
+    width: 100%;
+    height: 30px;
+}
+
+.answer3{
+    width: 100%;
+    height: 30px;
+}
+
+.submitButton{
+    width: 100px;
+    height:30px;
+}
+
+.historySurvey{
+    width: 100px;
+    height:30px;
+}

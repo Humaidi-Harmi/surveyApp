@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Core",
+    "\\backend\\Core\\Entities",
+    "\\backend\\obj",
+    "\\backend\\Properties"
+  ],
+  "SelectedNode": "\\backend\\Core\\AutoMapperConfig",
+  "PreviewInSolutionExplorer": false
+}
